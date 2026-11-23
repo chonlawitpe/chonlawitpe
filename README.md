@@ -1,4 +1,4 @@
-# สวัสดีครับ 👋 ผมชลวิทย์ (Chonlawit)
+# สวัสดีครับ 👋 ผมชลวิทย์ (Chonlawit Penwijit)
 
 **Developer ประจำคณะเศรษฐศาสตร์** 🎓💻
 พัฒนาและดูแลระบบสารสนเทศเพื่อสนับสนุนงานของคณะ ทั้งด้านการเรียนการสอน การบริหารจัดการ และงานบริการนักศึกษา
@@ -21,7 +21,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-> ✏️ ปรับ badge ให้ตรงกับเทคโนโลยีที่คุณใช้จริงได้ที่ [shields.io](https://shields.io) / [simpleicons.org](https://simpleicons.org)
 
 ## 💼 สิ่งที่ผมทำ
 
