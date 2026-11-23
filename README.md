@@ -31,10 +31,6 @@
 | 🔧 Maintenance | ดูแล แก้ไข และพัฒนาระบบเดิมให้ใช้งานได้ต่อเนื่อง |
 | 📊 Data & Reporting | จัดทำรายงานและสรุปข้อมูลเพื่อการตัดสินใจ |
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=chonlawitpe&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chonlawitpe&layout=compact)
 
 ## 📫 ติดต่อ
 
